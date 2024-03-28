@@ -1,9 +1,6 @@
-### Hi there 👋 I'm Bhavanam Harshitha 
+### Hi there 👋 
 
-<!--
-**BhavanamHarshitha/BhavanamHarshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+   I'm Bhavanam Harshitha 
 
 - 🔭 I’m currently working on enchancing my skills in Artificial intelligence throug various projects and courses
 - 🌱 I’m currently learning advanced topics in machine learning algorithms and deep learning
